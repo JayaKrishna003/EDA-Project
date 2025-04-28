@@ -39,7 +39,6 @@ This analysis aims to help stakeholders (especially farmers) make **data-driven 
 - Python  
 - Pandas, NumPy – Data cleaning and manipulation  
 - Matplotlib, Seaborn – Visual analytics  
-- GeoPandas – Geospatial data mapping  
 - Jupyter Notebook
 
 ---
@@ -56,10 +55,9 @@ This analysis aims to help stakeholders (especially farmers) make **data-driven 
 
 ## 📂 Folder Structure
 
-- `Market (1).ipynb` – Complete code notebook  
+- `Solved Code.ipynb` – Complete code notebook  
 - `data/` – Raw and cleaned datasets  
-- `plots/` – Output visualizations  
-- `maps/` – Geospatial analysis files (if applicable)  
+- `plots/` – Output visualizations
 
 ---
 
